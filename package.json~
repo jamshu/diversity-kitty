@@ -1,7 +1,7 @@
 {
   "name": "autokitty",
   "version": "0.0.1",
-  "description": "This Project Mainly done due to Complicated Expense entry of Diversity Group ",
+  "description": "This Project Mainly done due to Complicated Expense entry of Diversity Group Spcial Thanks to :Irshad,Insaf,Irfan,Najmu,Anshad",
   "scripts": {
     "postinstall": "npm run bundle && npm run uglify && npm run gzip",
     "start": "babel-node --stage 0 index.js",
