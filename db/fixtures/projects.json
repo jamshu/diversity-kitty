@@ -1,36 +1,33 @@
 [
   {
-    "title": "A Jolly Trip",
+    "title": "A Jolly Trip To Sheez",
     "type": "project",
     "createdAt": 1438702064182,
     "_id": "a-jolly-trip-EkZGKptc",
     "members": [
       {
-        "name": "Susan",
-        "slug": "susan-VyhGY6Kq",
+        "name": "Jamshid",
+        "slug": "jamshi-VyhGY6Kq",
         "expenses": [
           {
-            "name": "Picnic",
+            "name": "Dinner",
             "amount": "6.20",
             "slug": "picnic-4kINFaK9",
-            "owner": "susan-VyhGY6Kq",
+            "owner": "jamshi-VyhGY6Kq",
             "excluded": []
           },
           {
-            "name": "Train fare",
+            "name": "Movie Ticket",
             "amount": "2.25",
             "slug": "train-fare-VyQHtaYc",
-            "owner": "susan-VyhGY6Kq",
-            "excluded": [
-              "crispin-Ny77YaYq",
-              "peter-41CMFpY9"
-            ]
+            "owner": "jamshi-VyhGY6Kq",
+            "excluded": []
           }
         ]
       },
       {
-        "name": "Peter",
-        "slug": "peter-41CMFpY9",
+        "name": "Najmal",
+        "slug": "najmu-41CMFpY9",
         "expenses": [
           {
             "name": "Lemonade",
@@ -42,21 +39,26 @@
         ]
       },
       {
-        "name": "Crispin",
-        "slug": "crispin-Ny77YaYq",
+        "name": "Insaf",
+        "slug": "insaf-Ny77YaYq",
         "expenses": []
       },
       {
-        "name": "Giles",
-        "slug": "giles-EJumYTtq",
+        "name": "Anshad",
+        "slug": "anshad-Ny77YaYq",
+        "expenses": []
+      },
+      {
+        "name": "Irshad",
+        "slug": "irshad-EJumYTtq",
         "expenses": [
           {
             "name": "Ice creams",
             "amount": "1.32",
             "slug": "ice-creams-41EFFTFq",
-            "owner": "giles-EJumYTtq",
+            "owner": "irshad-EJumYTtq",
             "excluded": [
-              "peter-41CMFpY9"
+              "insaf-Ny77YaYq"
             ]
           }
         ]
