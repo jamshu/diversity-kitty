@@ -10,7 +10,7 @@ export default class Project extends Component {
 
   static defaultProps = {
     value: 0,
-    symbol: '£',
+    symbol: 'AED',
     scale: 2
   }
 
