@@ -15,7 +15,10 @@ export default class Chrome extends Component {
     return (
       <div>
         <h1><Link route='home'>J-Diversity</Link></h1>
-        <h4>This Project Mainly done due to Complicated Expense entry of Diversity Group Spcial Thanks to :Irshad,Insaf,Irfan,Najmu,Anshad</h4>
+        <h4>Welcome To Diversity Expense Registration App</h4>
+        <p>
+        Sincere Thanks to .....Irshad,Insaf,Irfan,Najmu,Anshad
+        </p>
         {this.props.children}
         <MessageList messages={messages} removeMessage={removeMessage}/>
       </div>
