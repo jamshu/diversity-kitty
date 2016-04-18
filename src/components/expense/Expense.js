@@ -12,7 +12,7 @@ export default class Expense extends Component {
     const {name, amount} = this.props
     return (
       <div>
-        <h3>{name} £{amount}</h3>
+        <h3>{name} AED{amount}</h3>
         {this.props.children}
       </div>
     )

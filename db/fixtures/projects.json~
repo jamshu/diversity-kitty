@@ -1,0 +1,68 @@
+[
+  {
+    "title": "A Jolly Trip To Sheez",
+    "type": "project",
+    "createdAt": 1438702064182,
+    "_id": "a-jolly-trip-EkZGKptc",
+    "members": [
+      {
+        "name": "Jamshid",
+        "slug": "jamshi-VyhGY6Kq",
+        "expenses": [
+          {
+            "name": "Dinner",
+            "amount": "6.20",
+            "slug": "picnic-4kINFaK9",
+            "owner": "jamshi-VyhGY6Kq",
+            "excluded": []
+          },
+          {
+            "name": "Movie Ticket",
+            "amount": "2.25",
+            "slug": "train-fare-VyQHtaYc",
+            "owner": "jamshi-VyhGY6Kq",
+            "excluded": []
+          }
+        ]
+      },
+      {
+        "name": "Najmal",
+        "slug": "najmu-41CMFpY9",
+        "expenses": [
+          {
+            "name": "Lemonade",
+            "amount": "3.00",
+            "slug": "lemonade-4JcvYTK9",
+            "owner": "peter-41CMFpY9",
+            "excluded": []
+          }
+        ]
+      },
+      {
+        "name": "Insaf",
+        "slug": "insaf-Ny77YaYq",
+        "expenses": []
+      },
+      {
+        "name": "Anshad",
+        "slug": "anshad-Ny77YaYq",
+        "expenses": []
+      },
+      {
+        "name": "Irshad",
+        "slug": "irshad-EJumYTtq",
+        "expenses": [
+          {
+            "name": "Ice creams",
+            "amount": "1.32",
+            "slug": "ice-creams-41EFFTFq",
+            "owner": "irshad-EJumYTtq",
+            "excluded": [
+              "insaf-Ny77YaYq"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
